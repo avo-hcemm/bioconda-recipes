@@ -1,6 +1,6 @@
 {% set name = "cfDNA-BiomarkerSearch" %}
-{% set version = "0.1.1" %}
-{% set sha256 = "8bab410acf5a912e1bd235b24f2e611299e3ffc59906312a54d28dd1833a88e3" %}
+{% set version = "0.1.2" %}
+{% set sha256 = "9ad62b274bba6951017beb309fa7c8c570fe3faf30bc66a4fa49c352fdc2c402" %}
 {% set repo_url = "https://github.com/avo-hcemm/cfDNA-biomarkers-pipeline" %}
 
 package:
